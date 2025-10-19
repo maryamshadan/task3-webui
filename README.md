@@ -85,36 +85,23 @@ Click the delete button and confirm to remove a task permanently.
 ## 📸 Screenshots
 
 ### Homepage - Task List
-![Task List](screenshots/task-list.png)
-Screenshot showing all tasks (replace with your name and date if desired)
+![home_page.png](screenshots/home_page.png)
+Screenshot showing all tasks 
 
 ### Create Task Form
-![Create Task](screenshots/create-task.png)
-Creating a new task (replace with your name and date if desired)
-
-### Search Functionality
-![Search Tasks](screenshots/search-tasks.png)
-Searching for tasks by name
+![create_task.png](screenshots/create_task.png)
 
 ### Execute Command
-![Execute Command](screenshots/execute-command.png)
-Executing a shell command
+![execute_command.png](screenshots/execute_command.png)
 
 ### Execution Results
-![Execution Results](screenshots/execution-results.png)
+![execution_results.png](screenshots/execution_results.png)
 Viewing command output and execution history
 
 ### Delete Confirmation
-![Delete Task](screenshots/delete-task.png)
-Deleting a task with confirmation
+![delete_task.png](screenshots/delete_task.png)
 
-### Additional Screenshots
-If you have the original screenshots from the other branch, you can add them here:
-- ![create_task.png](screenshots/create_task.png)
-- ![delete_task.png](screenshots/delete_task.png)
-- ![execute_command.png](screenshots/execute_command.png)
-- ![execution_results.png](screenshots/execution_results.png)
-- ![home_page.png](screenshots/home_page.png)
+
 ## 🔒 Security Features
 
 - Client-side command validation
