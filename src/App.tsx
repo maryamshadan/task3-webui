@@ -1,12 +1,8 @@
 import React from 'react';
-import Task3Page from './Task3Page';
+import Dashboard from './pages/Dashboard';
 
-function App() {
-  return (
-    <div>
-      <Task3Page />
-    </div>
-  );
-}
+const App: React.FC = () => {
+  return <Dashboard />;
+};
 
 export default App;
