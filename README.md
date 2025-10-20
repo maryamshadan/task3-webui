@@ -150,7 +150,7 @@ Creates optimized production build in `build/` directory.
 
 ## 👤 Author
 
-**[Your Name]**
+**[Vishnu sai]**
 
 ## 📄 License
 
